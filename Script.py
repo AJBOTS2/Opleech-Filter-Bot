@@ -2,16 +2,16 @@ class script(object):
     START_TXT = """<b>𝐇𝐞𝐥𝐥𝐨 {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ
 
-🌺 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Farooq_is_KING'>𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a></b>"""
+🌺 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/TMW_CHANNELS'>𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-🌺 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Farooq_is_KING'>𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a></b>"""
+🌺 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/TMW_CHANNELS'>𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a></b>"""
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/TG_filter_V1bot>TG_filter_V1bot</a>
- ‣ Create By : <a href='https://t.me/Farooq_is_KING'>WOODcraft</a> 
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/TMW_Files_Search_Bot>TG_filter_V1bot</a>
+ ‣ Create By : <a href='https://t.me/TMW_CHANNELS'>WOODcraft</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -20,7 +20,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
     SOURCE_TXT = """
 <b>Nᴏᴛᴇ:
-✭ Bᴏᴛ ɪs Rᴇᴅᴇsɪɢɴ ʙʏ <a href='https://t.me/Farooq_is_KING'>𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a>
+✭ Bᴏᴛ ɪs Rᴇᴅᴇsɪɢɴ ʙʏ <a href='https://t.me/TMW_CHANNELS'>𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a>
 ✭ Sᴏᴜʀᴄᴇ - ɪᴛ's ᴀ ᴘʀɪᴠᴀᴛᴇ ʀᴇᴘᴏ
 ✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ</b>
 """
@@ -219,9 +219,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """ 
 <b>══════════════════
-🗂 {file_name}
+🗂 {file_caption}
 ═════════════════════ 
-𝐉𝐨𝐢𝐧 𝐇𝐞𝐫𝐞 :- @WD_Topic_Group</b>"""
+𝐉𝐨𝐢𝐧 𝐇𝐞𝐫𝐞 :- @TMW_GROUP</b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
